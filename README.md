@@ -2,8 +2,7 @@
 
 This repository contains the source code for the Node.js Custom CDN tutorial, demonstrating how to build a high-performance custom Content Delivery Network (CDN) with Node.js from scratch. The tutorial covers various essential aspects such as understanding CDNs, setting up your development environment, designing the architecture, and implementing the server using Node.js and Express. It also delves into advanced features like caching, load balancing, security, monitoring, logging, and performance optimizations.
 
-For a comprehensive, step-by-step guide, visit the tutorial at:
-[https://voskan.host/2023/04/09/build-a-high-performance-custom-content-delivery-network-cdn-with-node-js/](https://voskan.host/2023/04/09/build-a-high-performance-custom-content-delivery-network-cdn-with-node-js/)
+For a comprehensive, step-by-step guide, visit the tutorial at: ([https://www.plusdev.net/2023/04/09/build-a-high-performance-custom-content-delivery-network-cdn-with-node-js](https://www.plusdev.net/2023/04/09/build-a-high-performance-custom-content-delivery-network-cdn-with-node-js))
 
 ## Getting Started
 
